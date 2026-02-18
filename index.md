@@ -3,7 +3,7 @@ title: Choose Your Adventure
 image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
-Read the blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
+Read my blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
 
 ---
 
