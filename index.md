@@ -1,3 +1,7 @@
+---
+title: Choose Your Adventure
+---
+
 ## [Guild Hall](https://cgbarlow.github.io/guild-hall/)
 
 **Quest-based engagement platform where communities complete adventures, not checklists.**
