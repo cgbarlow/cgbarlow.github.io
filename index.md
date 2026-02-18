@@ -7,7 +7,7 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
 
 **Work with a party of AI advisors with genuinely different perspectives.**
 
-![Campaign Mode agents gathered in a fantasy tavern](https://github.com/cgbarlow/campaign-mode/raw/main/docs/campaign-mode-agents.jpg)
+[![Campaign Mode agents gathered in a fantasy tavern](https://github.com/cgbarlow/campaign-mode/raw/main/docs/campaign-mode-agents.jpg)](https://cgbarlow.github.io/campaign-mode/)
 
 Inspired by Dr Simon McCallum's Six Animals framework, Campaign Mode recruits six psychologically-grounded AI advisors to challenge your assumptions, surface your blind spots, and stress-test your work before it matters. Frame your work as a quest, face the Dragon, and come out with something you're genuinely proud of.
 
@@ -21,7 +21,7 @@ Available as a plugin for Claude Desktop and Claude Code.
 
 **Quest-based engagement platform where communities complete adventures, not checklists.**
 
-![Guild Hall Dashboard](https://github.com/cgbarlow/guild-hall/raw/main/files/guild-hall-dashboard.png)
+[![Guild Hall Dashboard](https://github.com/cgbarlow/guild-hall/raw/main/files/guild-hall-dashboard.png)](https://cgbarlow.github.io/guild-hall/)
 
 Guild Hall is where Game Masters design quests for their communities, and community members actually complete them. Browse the Bounty Board, accept a quest, submit evidence, earn points, unlock badges, and progress through skill tiers from Apprentice to Legend.
 
