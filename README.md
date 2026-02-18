@@ -1,9 +1,3 @@
-# Choose Your Adventure
-
-*Two projects. One philosophy: do quests, not goals.*
-
----
-
 ## [Guild Hall](https://cgbarlow.github.io/guild-hall/)
 
 **Quest-based engagement platform where communities complete adventures, not checklists.**
