@@ -5,9 +5,9 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
 
 > Chris decided the best way to solve the world's problems was to turn everything into a quest.
 
-Read the blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
+**Read the blog:** [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
 
-Follow the community: [Agentics NZ](https://agentics-nz.fly.dev/) - connecting AI hackers across Aotearoa with the world.
+**Follow the community:** [Agentics NZ](https://agentics-nz.fly.dev/) - connecting AI hackers across Aotearoa with the world.
 
 ---
 
