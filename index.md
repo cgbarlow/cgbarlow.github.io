@@ -13,7 +13,7 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
 
 **Read the blog:** [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
 
-**Follow the community:** [Agentics NZ](https://agentics-nz.fly.dev/) - connecting AI hackers across Aotearoa NZ with the world.
+**Follow the community:** [Agentics NZ](https://agentics.org.nz) - connecting AI hackers across Aotearoa NZ with the world.
 
 ---
 
