@@ -3,6 +3,10 @@ title: Choose Your Adventure
 image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
+Read the blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
+
+---
+
 ## [Campaign Mode](https://cgbarlow.github.io/campaign-mode/)
 
 **Work with a party of AI advisors with genuinely different perspectives.**
