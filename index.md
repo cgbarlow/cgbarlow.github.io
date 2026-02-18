@@ -3,12 +3,12 @@ title: Choose Your Adventure
 image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
+> Chris decided the best way to solve the world's problems was to turn everything into a quest.
+
 <div class="icon-bar">
   <a href="mailto:contact@chrisbarlow.nz"><i class="fas fa-envelope"></i></a>
   <a href="https://www.linkedin.com/in/cgbarlow/"><i class="fab fa-linkedin"></i></a>
 </div>
-
-> Chris decided the best way to solve the world's problems was to turn everything into a quest.
 
 **Read the blog:** [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
 
