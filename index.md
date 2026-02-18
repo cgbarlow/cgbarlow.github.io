@@ -3,9 +3,15 @@ title: Choose Your Adventure
 image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
-Read my blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
+An enterprise architect who decided the best way to solve problems was to turn everything into a quest.
+
+Read the blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
+
+Follow the community: [Agentics NZ](https://agentics-nz.fly.dev/) - connecting AI hackers across Aotearoa with the world.
 
 ---
+
+# Projects
 
 ## [Campaign Mode](https://cgbarlow.github.io/campaign-mode/)
 
