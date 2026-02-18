@@ -1,6 +1,6 @@
 ---
 title: Choose Your Adventure
-image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents.jpg
+image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
 ## [Campaign Mode](https://cgbarlow.github.io/campaign-mode/)
