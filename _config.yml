@@ -1,3 +1,5 @@
 remote_theme: pages-themes/merlot
 title: Choose Your Adventure
 description: Do quests, not goals.
+plugins:
+  - jekyll-seo-tag
