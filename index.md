@@ -1,5 +1,6 @@
 ---
 title: Choose Your Adventure
+description: Chris Barlow creates quest-based experiences for communities and collaboration. Co-founder of the Agentics Foundation NZ chapter.
 image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
