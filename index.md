@@ -3,7 +3,7 @@ title: Choose Your Adventure
 image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campaign-mode-agents_sml.jpg
 ---
 
-This is where Chris Barlow keeps all his quest-related stuff. Chris decided the best way to solve the world's problems was to turn everything into a quest.
+> Chris decided the best way to solve the world's problems was to turn everything into a quest.
 
 Read the blog: [Uncharted Quests](https://unchartedquests.substack.com/) - rethinking everyday work and life as a series of engaging quests.
 
