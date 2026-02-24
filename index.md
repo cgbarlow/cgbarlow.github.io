@@ -17,7 +17,7 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
 
 ---
 
-# Projects
+# Current Projects
 
 ## [Campaign Mode](https://chrisbarlow.nz/campaign-mode/)
 
@@ -44,6 +44,10 @@ Guild Hall is where Game Masters design quests for their communities, and commun
 Whether you run a meetup, a learning community, or a team, Guild Hall turns participation into adventure.
 
 [Enter the Guild Hall →](https://chrisbarlow.nz/guild-hall/)
+
+---
+
+[All projects →](https://chrisbarlow.nz/projects)
 
 ---
 
