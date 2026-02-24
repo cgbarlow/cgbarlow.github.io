@@ -47,7 +47,9 @@ Whether you run a meetup, a learning community, or a team, Guild Hall turns part
 
 ---
 
-[All projects →](https://chrisbarlow.nz/projects)
+Check out what else Chris has cooked up.
+
+[View all projects →](https://chrisbarlow.nz/projects)
 
 ---
 
