@@ -19,6 +19,34 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
 
 # Current Projects
 
+## [Iris](https://github.com/cgbarlow/iris)
+
+**A repository-first architectural modelling tool — your architecture as data, not diagrams.**
+
+[![The Iris dashboard showing collections, sets, views and elements in an architecture repository](/iris.png)](https://github.com/cgbarlow/iris)
+
+Iris (Integrated Repository for Information & Systems) is for creating and managing architectural elements, relationships, and models. It supports several notations including UML, ArchiMate, and C4, with full conversion from Sparx EA.
+
+Diagrams are views onto the repository rather than the source of truth, so your models stay consistent as they grow — and an MCP server lets AI agents query and extend the repository directly.
+
+[Explore Iris →](https://github.com/cgbarlow/iris)
+
+---
+
+## [unsorry](https://agenticsnz.github.io/unsorry/)
+
+**Autonomous agents proving theorems in Lean 4 — SETI@Home, but for maths proofs.**
+
+[![How unsorry works: a swarm of AI agents write proofs, Lean verifies them, and the verified library grows](/unsorry-infographic.jpg)](https://agenticsnz.github.io/unsorry/)
+
+A swarm of LLM agents picks open theorems, writes proof attempts in Lean, and submits them to a machine that never accepts a hand-wave. Git is the queue, the kernel is the gate, and no `sorry` survives. Failed proofs get split into smaller sub-goals and sent back to the swarm; verified ones join a growing library that makes every future proof easier.
+
+Mathematics treated like software: agents write the code, Lean is the compiler, and only correct code gets merged.
+
+[Join the swarm →](https://agenticsnz.github.io/unsorry/)
+
+---
+
 ## [Campaign Mode](https://chrisbarlow.nz/campaign-mode/)
 
 **Work with a party of AI advisors with genuinely different perspectives.**
@@ -44,34 +72,6 @@ Guild Hall is where Game Masters design quests for their communities, and commun
 Whether you run a meetup, a learning community, or a team, Guild Hall turns participation into adventure.
 
 [Enter the Guild Hall →](https://chrisbarlow.nz/guild-hall/)
-
----
-
-## [unsorry](https://agenticsnz.github.io/unsorry/)
-
-**Autonomous agents proving theorems in Lean 4 — SETI@Home, but for maths proofs.**
-
-[![How unsorry works: a swarm of AI agents write proofs, Lean verifies them, and the verified library grows](/unsorry-infographic.jpg)](https://agenticsnz.github.io/unsorry/)
-
-A swarm of LLM agents picks open theorems, writes proof attempts in Lean, and submits them to a machine that never accepts a hand-wave. Git is the queue, the kernel is the gate, and no `sorry` survives. Failed proofs get split into smaller sub-goals and sent back to the swarm; verified ones join a growing library that makes every future proof easier.
-
-Mathematics treated like software: agents write the code, Lean is the compiler, and only correct code gets merged.
-
-[Join the swarm →](https://agenticsnz.github.io/unsorry/)
-
----
-
-## [Iris](https://github.com/cgbarlow/iris)
-
-**A repository-first architectural modelling tool — your architecture as data, not diagrams.**
-
-[![The Iris dashboard showing collections, sets, views and elements in an architecture repository](/iris.png)](https://github.com/cgbarlow/iris)
-
-Iris (Integrated Repository for Information & Systems) is for creating and managing architectural elements, relationships, and models. It supports several notations including UML, ArchiMate, and C4, with full conversion from Sparx EA.
-
-Diagrams are views onto the repository rather than the source of truth, so your models stay consistent as they grow — and an MCP server lets AI agents query and extend the repository directly.
-
-[Explore Iris →](https://github.com/cgbarlow/iris)
 
 ---
 
