@@ -25,7 +25,7 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
 
 [![The Iris dashboard showing collections, sets, views and elements in an architecture repository](/iris.png)](https://github.com/cgbarlow/iris)
 
-Iris (Integrated Repository for Information & Systems) is for creating and managing architectural elements, relationships, and models. It supports several notations including UML, ArchiMate, and C4, with full conversion from Sparx EA.
+Iris (Integrated Repository for Information & Systems) is for creating and managing architectural elements, relationships, and models — all held in a knowledge graph you can explore end to end. It supports several notations including UML, ArchiMate, and C4, with full conversion from Sparx EA.
 
 Diagrams are views onto the repository rather than the source of truth, so your models stay consistent as they grow — and an MCP server lets AI agents query and extend the repository directly.
 
