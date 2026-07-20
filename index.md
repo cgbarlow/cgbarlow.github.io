@@ -11,9 +11,9 @@ image: https://raw.githubusercontent.com/cgbarlow/campaign-mode/main/docs/campai
   <a href="https://www.linkedin.com/in/cgbarlow/"><i class="fab fa-linkedin"></i></a>
 </div>
 
-**Read the blog:** <a href="https://unchartedquests.substack.com/"><img src="/uncharted-quests-logo.jpg" alt="Uncharted Quests" height="28" style="vertical-align:middle;border-radius:4px"></a> - rethinking everyday work and life as a series of engaging quests.
-
 **Join the community:** <a href="https://agentics.org.nz"><img src="/agentics-nz-logo.png" alt="Agentics NZ" height="28" style="vertical-align:middle"></a> - promoting applied agentic engineering and sovereign AI practice, education, and innovation across Aotearoa.
+
+**Read the blog:** <a href="https://unchartedquests.substack.com/"><img src="/uncharted-quests-logo.jpg" alt="Uncharted Quests" height="28" style="vertical-align:middle;border-radius:4px"></a> - rethinking everyday work and life as a series of engaging quests.
 
 ---
 
